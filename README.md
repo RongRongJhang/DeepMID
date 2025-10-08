@@ -15,7 +15,7 @@ pip install -r requirements.txt
 ```
 3. Run Code
 ```
-python3 runapp.py
+python3 streamlit_app.py
 ```
 
 ## 2. 智慧醫學影像診斷系統
